@@ -1,0 +1,7 @@
+{
+  "name": "Trayectoria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

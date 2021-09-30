@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Trayectoria",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
