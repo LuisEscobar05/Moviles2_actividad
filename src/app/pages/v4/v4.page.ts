@@ -24,15 +24,15 @@ export class V4Page implements OnInit {
   initializaIntems(){
     this.dataNames = [
       {
-        name: 'Luis Gerardo',
+        name: 'Julio',
         edad: 22, 
       },
       {
-        name: 'Jose',
+        name: 'Angel',
         edad: 30,
       },
       {
-        name: 'Steve',
+        name: 'Patricio',
         edad: 40,
       }
     ];

@@ -24,15 +24,15 @@ export class V3Page implements OnInit {
   initializaIntems(){
     this.dataNames = [
       {
-        name: 'Luis Gerardo',
+        name: 'Jason',
         edad: 22, 
       },
       {
-        name: 'Jose',
+        name: 'Carlos',
         edad: 30,
       },
       {
-        name: 'Steve',
+        name: 'Pablo',
         edad: 40,
       }
     ];
